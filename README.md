@@ -2,4 +2,12 @@
 
 ### This Project Create Learning Purpose...
 
-[![image alt text](https://cdn-std.droplr.net/files/acc_1197125/xKSd9p]
+
+<img src="images/prev.gif" alt="Logo">
+
+
+1. Class Based.
+2. functional.
+3. Use LocalStorage.
+
+### Download || fork || Clone and Run 🤘😊🤘
