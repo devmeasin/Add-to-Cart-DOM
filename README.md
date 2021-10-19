@@ -10,4 +10,4 @@
 2. functional.
 3. Use LocalStorage.
 
-### Download || fork || Clone and Run 🤘😊🤘
+### Download || fork || Clone and Run 🤘😊🤘 
